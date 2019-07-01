@@ -1,0 +1,22 @@
+BOOKS
+id
+auhtor
+title
+category
+pricenumber of books
+
+EMPLOYEES
+id
+firstName
+lastName
+
+CUSTOMERS
+id
+firstName
+lastName
+
+ORDER
+orderNumber
+bookID
+customerID
+quantity
